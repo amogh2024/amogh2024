@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amogh2024
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Html Css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I have already learned Html5 Css3 Bootstrap Javascript React.js Node.js API ASP.Net (MVC) SQL MySql
+- 💞️ I’m looking to collaborate on Web Development Projects and Web Application Projects
+- 📫 How to reach me ..
 
 <!---
 amogh2024/amogh2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
